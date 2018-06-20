@@ -30,15 +30,11 @@
 
 #### 1.2.1 SOLID
 
-##### SRP: Single responsibility principle
-
-##### OCP: Open/closed principle
-
-##### LSP: Liskov substitution principle
-
-##### ISP: Interface segregation principle
-
-##### DIP: Dependency inversion principle
+* SRP: Single responsibility principle
+* OCP: Open/closed principle
+* LSP: Liskov substitution principle
+* ISP: Interface segregation principle
+* DIP: Dependency inversion principle
 
 #### 1.2.2 Law of Demeter: principle of least knowledge
 
