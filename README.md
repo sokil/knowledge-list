@@ -40,6 +40,14 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
+#### 1.2.3 DRY: Don't repeat yoyrself
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+#### 1.2.4 SSOT: Single source of truth
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Single_source_of_truth)
+
 ### 1.3 Programming paradigm
 
 * Imperative
@@ -55,6 +63,8 @@ Articles:
 ### 1.4 Concurrency
 
 * [Concurrency in PHP](https://github.com/sokil/php-concurrency-labs)
+
+### 1.5 Patterns
 
 ## 2. Data sciense
 
@@ -73,6 +83,8 @@ Articles:
 #### 3.1.3 MVCC - Multiversion concurrency control
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
+
+### 3.2 Normlization
 
 ## 4. Security
 
