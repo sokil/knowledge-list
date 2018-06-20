@@ -30,6 +30,20 @@
 
 ## 3. Databases
 
+### 3.1 Theory
+
+#### CAP: Consistency, Availability, Partition tolerance
+
+* [Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+
+#### ACID: Atomicity, Consistency, Isolation, Durability
+
+* [Wikipedia](https://en.wikipedia.org/wiki/ACID)
+
+#### MVCC - Multiversion concurrency control
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
+
 ## 4. Security
 
 ## 5. Cloud platforms
