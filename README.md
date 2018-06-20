@@ -66,7 +66,77 @@ Articles:
 
 ### 1.5 Patterns
 
+### 1.6 Message bus
+
+* Gearman
+* RabbitMQ
+  * Durability
+  * Excchanges: direct, fanout, topic, headers
+  * Cli tools
+* [ZeroMQ](https://github.com/mkoppanen/php-zmq)
+* Kafka
+
+### 1.7 Cache
+
+* [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
+
+### 1.8 Search engines
+
+* [Elasticsearch](https://www.elastic.co)
+
+### 1.9 Auth
+
+* oAuth
+* SAML
+
+### 1.10 RPC
+
+* [gRPC](https://grpc.io)
+* GraphQL
+* REST
+  * [Architectural Styles and the Design of Network-based Software Architectures / Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+  * [Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807) - This document defines a "problem detail" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.
+
+
 ## 2. Data sciense
+
+### 2.1 Algorithms
+
+### 2.2 Common languages, tools and platforms
+
+* [R](https://www.r-project.org/)
+* Python libs
+  * numpy
+  * scikit-learn
+  * scipy
+  * pyplot
+* [CUDA](https://developer.nvidia.com/how-to-cuda-c-cpp)
+* Deep Learning / Neural networks
+  * [Tensorflow](https://www.tensorflow.org/)
+  * [Keras](https://keras.io) - high-level neural networks API, capable of running on top of TensorFlow, CNTK, or Theano.
+    
+### 2.3 Machine learning
+
+* Distributed Random Forest (DRF)
+* Generalized Linear Model (GLM)
+* Naive Bayes Classifier
+* Stacked Ensembles
+* Gradient boosting
+  * [Wikipedia](https://en.wikipedia.org/wiki/Gradient_boosting)
+  * [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+* [Unbalanced data dealing](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
+
+### 2.4 OCR
+
+* [Tesseract OCR](https://github.com/tesseract-ocr/)
+* [OpenCV](https://opencv.org)
+
+### 2.2 Visualization
+
+* Tableau
+* Periscope Data
+* Looker
+* jupyter notebook
 
 ## 3. Databases
 
@@ -99,6 +169,8 @@ Articles:
 ## 6. Techdocs
 
 ## 7. Finance
+
+* [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
 
 ## 8. Articles
 
