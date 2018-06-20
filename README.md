@@ -52,6 +52,9 @@ Articles:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 
+### 1.4 Concurrency
+
+* [Concurrency in PHP](https://github.com/sokil/php-concurrency-labs)
 
 ## 2. Data sciense
 
