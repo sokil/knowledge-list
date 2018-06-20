@@ -7,18 +7,37 @@
 4. [Security](#security)
 5. [Cloud platforms](#cloud-platforms)
 6. [Techdocs](#techdocs)
-6. [Finance](#finance)
+7. [Finance](#finance)
+8. [Articles]
 
-## Software development
+## 1. Software development
 
-## Data sciense
+### 1.1 Architecture
 
-## Databases
+#### Onion
 
-## Security
+* [The Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 
-## Cloud platforms
+#### Hexagonal
 
-## Techdocs
+* [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture))
 
-## Finance
+#### Clean
+
+* [The Clean Architecture from 8thlight](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+## 2. Data sciense
+
+## 3. Databases
+
+## 4. Security
+
+## 5. Cloud platforms
+
+## 6. Techdocs
+
+## 7. Finance
+
+## 8. Articles
+
+* [Web developer roadmap (frontend, backend, devops)](https://github.com/kamranahmedse/developer-roadmap)
