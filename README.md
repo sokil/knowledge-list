@@ -14,21 +14,21 @@
 
 ### 1.1 Architecture
 
-#### Onion
+#### 1.1.1 Onion
 
 * [The Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 
-#### Hexagonal
+#### 1.1.2 Hexagonal
 
 * [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture))
 
-#### Clean
+#### 1.1.3 Clean
 
 * [The Clean Architecture from 8thlight](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ### 1.2 Principles
 
-#### SOLID
+#### 1.2.1 SOLID
 
 ##### SRP: Single responsibility principle
 
@@ -40,7 +40,7 @@
 
 ##### DIP: Dependency inversion principle
 
-#### Law of Demeter: principle of least knowledge
+#### 1.2.2 Law of Demeter: principle of least knowledge
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
@@ -63,25 +63,25 @@ Articles:
 
 ### 3.1 Theory
 
-#### CAP: Consistency, Availability, Partition tolerance
+#### 3.1.1 CAP: Consistency, Availability, Partition tolerance
 
 * [Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
 
-#### ACID: Atomicity, Consistency, Isolation, Durability
+#### 3.1.2 ACID: Atomicity, Consistency, Isolation, Durability
 
 * [Wikipedia](https://en.wikipedia.org/wiki/ACID)
 
-#### MVCC - Multiversion concurrency control
+#### 3.1.3 MVCC - Multiversion concurrency control
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
 
 ## 4. Security
 
-### XSS
+### 4.1 XSS
 
-### CSRF
+### 4.2 CSRF
 
-### SQL injection
+### 4.3 SQL injection
 
 ## 5. Cloud platforms
 
