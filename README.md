@@ -30,7 +30,7 @@
 
 #### SOLID
 
-#### SRP: Single responsibility principle
+##### SRP: Single responsibility principle
 
 ##### OCP: Open/closed principle
 
