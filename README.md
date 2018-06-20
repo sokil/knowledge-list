@@ -8,7 +8,7 @@
 5. [Cloud platforms](#cloud-platforms)
 6. [Techdocs](#techdocs)
 7. [Finance](#finance)
-8. [Articles]
+8. [Articles](#articles)
 
 ## 1. Software development
 
@@ -45,6 +45,12 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
 
 ## 4. Security
+
+### XSS
+
+### CSRF
+
+### SQL injection
 
 ## 5. Cloud platforms
 
