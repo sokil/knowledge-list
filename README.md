@@ -43,10 +43,10 @@
 ### 1.3 Programming paradigm
 
 * Imperative
- * Object-oriented
- * Procedural
+  * Object-oriented
+  * Procedural
 * Declarative
- * Functional
+  * Functional
 
 Articles:
 
