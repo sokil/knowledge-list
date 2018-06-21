@@ -9,6 +9,7 @@
 6. [Techdocs](#6-techdocs)
 7. [Finance](#7-finance)
 8. [Articles](#8-articles)
+9. [Monitoring](#9-monitoring)
 
 ## 1. Software development
 
@@ -48,6 +49,15 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Single_source_of_truth)
 
+#### 1.2.5 CQRS: Command Query Responsibility Segregation
+
+* [Command Query Separation from Martin Fowler](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+
+#### 1.2.6 Event sourcing
+
+*[Event Sourcing from Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+
+
 ### 1.3 Programming paradigm
 
 * Imperative
@@ -65,6 +75,10 @@ Articles:
 * [Concurrency in PHP](https://github.com/sokil/php-concurrency-labs)
 
 ### 1.5 Patterns
+
+#### Articles
+
+* [Шаблоны проектирования с человеческим лицом](https://habrahabr.ru/company/mailru/blog/325492/)
 
 ### 1.6 Message bus
 
@@ -154,9 +168,13 @@ Articles:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/ACID)
 
-#### 3.1.3 MVCC - Multiversion concurrency control
+#### 3.1.3 MVCC: Multiversion concurrency control
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
+
+#### 3.1.5 ETL: Extract, transform, load
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 
 ### 3.2 Normlization
 
@@ -167,6 +185,19 @@ Articles:
 ### 3.4 Partitions
 
 ### 3.5 Triggers
+
+### 3.6 Indexes
+
+### Storage
+
+* Row-based
+* Column-based
+* NoSQL
+  * Document-based
+  * Key-value
+  * Column
+  * Graph
+
 
 ### Database scema migration
 
@@ -191,11 +222,23 @@ Articles:
 
 ### 5.3 Google Cloud
 
+* [Cloud](https://cloud.google.com)
+* [Firebase](https://firebase.google.com)
+
+### 5.4 Corezoid
+
+* [](https://new.corezoid.com)
+
 ## 6. Techdocs
 
 ### 6.1 Static site generator
 
 * [Jekyll](https://jekyllrb.com/docs/structure/)
+* [Docusaurus](https://docusaurus.io) - Easy to Maintain Open Source Documentation Websites
+
+### 6.2
+* [RAML](https://raml.org) - RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
+* [Swagger](https://swagger.io) - Design is the foundation of your API development. Swagger makes API design a breeze, with easy-to-use tools for developers, architects, and product owners.
 
 ## 7. Finance
 
@@ -204,3 +247,39 @@ Articles:
 ## 8. Articles
 
 * [Web developer roadmap (frontend, backend, devops)](https://github.com/kamranahmedse/developer-roadmap)
+
+## 9. Monitoring
+
+### 9.1 Logging
+
+#### Tools
+
+* ELK
+  * [Curator](https://github.com/elastic/curator)
+* Rsyslogd
+
+#### Usecases
+
+* [Работа с потоком логов в реальном времени с помощью Heka. Опыт Яндекс.Денег](https://habr.com/company/yamoney/blog/328018/)
+* [Сбор и анализ логов демонов в Badoo](https://habr.com/company/badoo/blog/280606/)
+
+### 9.2 Monitoring
+
+#### Tools
+
+* [Pinba](http://pinba.org) - MySQL storage engine that acts as a realtime monitoring/statistics server for PHP using MySQL as a read-only interface.
+* StatsD + Graphite
+* [prometheus](https://prometheus.io/)
+
+#### Usecases
+
+* [Обзор систем мониторинга серверов. Заменяем munin на…](https://habr.com/post/331016/)
+* [Истории успеха Kubernetes в production. Часть 4: SoundCloud (авторы Prometheus)](https://habr.com/company/flant/blog/339724/)
+
+## 10. DevOps
+
+* HashiCorp
+  * Consul
+    * [Conful templte](https://github.com/hashicorp/consul-template)
+    * [Scratch](http://gohugo.io/functions/scratch/) - for consul templating
+  * Vault
