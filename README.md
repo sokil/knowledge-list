@@ -72,7 +72,7 @@ Articles:
 * RabbitMQ
   * Durability
   * Excchanges: direct, fanout, topic, headers
-  * Cli tools
+  * Cli tools: rabbitmqadmin
 * [ZeroMQ](https://github.com/mkoppanen/php-zmq)
 * Kafka
 
