@@ -120,11 +120,19 @@ Articles:
 
 ### 1.11 Server push
 
+#### Techniques
+
 * WebSocket
-  * http://socket.io/
 * [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 * Long pooling
+
+#### Implementations
+
+* http://socket.io/ - frontend and backend (node.js) library
 * [Faye](https://faye.jcoglan.com) - publish-subscribe messaging system based on the Bayeux protocol. It provides message servers for Node.js and Ruby, and clients for use on the server and in all major web browsers.
+* Nginx modules:
+  * [nchan](https://nchan.io)
+  * [Nginx Push Stream Module](https://github.com/wandenberg/nginx-push-stream-module)
 
 ### 1.12 Testing
 
