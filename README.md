@@ -83,13 +83,16 @@ Articles:
 
 ### 1.6 Message bus
 
-* Gearman
-* RabbitMQ
-  * Durability
-  * Excchanges: direct, fanout, topic, headers
-  * Cli tools: rabbitmqadmin
-* [ZeroMQ](https://github.com/mkoppanen/php-zmq)
-* Kafka
+* Servers
+  * Gearman
+  * RabbitMQ
+    * Durability
+    * Excchanges: direct, fanout, topic, headers
+    * Cli tools: rabbitmqadmin
+  * [ZeroMQ](https://github.com/mkoppanen/php-zmq)
+  * Kafka
+* Libraries
+  * [bernard](https://bernard.readthedocs.io) - Multi-backend PHP library for creating background jobs for later processing
 
 ### 1.7 Cache
 
@@ -112,12 +115,25 @@ Articles:
 * REST
   * [Architectural Styles and the Design of Network-based Software Architectures / Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
   * [Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807) - This document defines a "problem detail" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.
+* Protobuf
+* Thrift
 
 ### 1.11 Server push
 
 * WebSocket
+  * http://socket.io/
 * [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 * Long pooling
+* [Faye](https://faye.jcoglan.com) - publish-subscribe messaging system based on the Bayeux protocol. It provides message servers for Node.js and Ruby, and clients for use on the server and in all major web browsers.
+
+### 1.12 Testing
+
+#### 1.12.1 Unit testing
+
+* PHP
+  * [PHPSpec](https://www.phpspec.net/) - A php toolset to drive emergent design by specification
+  * [Codeception](https://codeception.com)
+  * [Mockery](http://docs.mockery.io/en/latest/) - Simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
 
 ## 2. Data sciense
 
@@ -189,7 +205,7 @@ Articles:
 
 ### 3.6 Indexes
 
-### Storage
+### 3.7 Storage
 
 * Row-based
 * Column-based
@@ -198,9 +214,14 @@ Articles:
   * Key-value
   * Column
   * Graph
+  
+### 3.8 Processing
 
+#### 3.8.1 OLTP: On-line Transaction Processing
 
-### Database scema migration
+#### 3.8.2 OLAP: On-line Analytical Processing
+
+### 3.9 Database scema migration
 
 * http://www.liquibase.org/
 * https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html
@@ -237,7 +258,8 @@ Articles:
 * [Jekyll](https://jekyllrb.com/docs/structure/)
 * [Docusaurus](https://docusaurus.io) - Easy to Maintain Open Source Documentation Websites
 
-### 6.2
+### 6.2 API dods
+
 * [RAML](https://raml.org) - RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
 * [Swagger](https://swagger.io) - Design is the foundation of your API development. Swagger makes API design a breeze, with easy-to-use tools for developers, architects, and product owners.
 
@@ -270,7 +292,9 @@ Articles:
 
 * [Pinba](http://pinba.org) - MySQL storage engine that acts as a realtime monitoring/statistics server for PHP using MySQL as a read-only interface.
 * StatsD + Graphite
+* [InfluxDB](https://www.influxdata.com) - Time Series Platform
 * [prometheus](https://prometheus.io/)
+* [fluentd](https://www.fluentd.org)
 
 #### Usecases
 
@@ -279,6 +303,14 @@ Articles:
 
 ## 10. DevOps
 
+* Infrastructure automation
+  * Ansible
+  * Puppet
+  * Chef
+  * Capistrano
+* Process management:
+  * [supervisord](http://supervisord.org/)
+  * [mmonit](https://mmonit.com/)
 * HashiCorp
   * Consul
     * [Conful templte](https://github.com/hashicorp/consul-template)
