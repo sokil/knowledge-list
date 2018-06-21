@@ -10,6 +10,7 @@
 7. [Finance](#7-finance)
 8. [Articles](#8-articles)
 9. [Monitoring](#9-monitoring)
+10. [DevOps](#10-devops)
 
 ## 1. Software development
 
