@@ -97,6 +97,11 @@ Articles:
   * [Architectural Styles and the Design of Network-based Software Architectures / Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
   * [Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807) - This document defines a "problem detail" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.
 
+### 1.11 Server push
+
+* WebSocket
+* [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
+* Long pooling
 
 ## 2. Data sciense
 
@@ -153,6 +158,10 @@ Articles:
 * [Wikipedia](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
 
 ### 3.2 Normlization
+
+### 3.3 Joins
+
+* [Infographic](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
 
 ## 4. Security
 
