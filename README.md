@@ -100,9 +100,7 @@ Articles:
 
 ## 2. Data sciense
 
-### 2.1 Algorithms
-
-### 2.2 Common languages, tools and platforms
+### 2.1 Common languages, tools and platforms
 
 * [R](https://www.r-project.org/)
 * Python libs
@@ -115,7 +113,7 @@ Articles:
   * [Tensorflow](https://www.tensorflow.org/)
   * [Keras](https://keras.io) - high-level neural networks API, capable of running on top of TensorFlow, CNTK, or Theano.
     
-### 2.3 Machine learning
+### 2.2 Machine learning
 
 * Distributed Random Forest (DRF)
 * Generalized Linear Model (GLM)
@@ -126,12 +124,12 @@ Articles:
   * [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 * [Unbalanced data dealing](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
 
-### 2.4 OCR
+### 2.3 OCR
 
 * [Tesseract OCR](https://github.com/tesseract-ocr/)
 * [OpenCV](https://opencv.org)
 
-### 2.2 Visualization
+### 2.4 Visualization
 
 * Tableau
 * Periscope Data
