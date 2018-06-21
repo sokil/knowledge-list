@@ -88,6 +88,7 @@ Articles:
 
 * oAuth
 * SAML
+* LDAP
 
 ### 1.10 RPC
 
@@ -163,6 +164,15 @@ Articles:
 
 * [Infographic](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
 
+### 3.4 Partitions
+
+### 3.5 Triggers
+
+### Database scema migration
+
+* http://www.liquibase.org/
+* https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html
+
 ## 4. Security
 
 ### 4.1 XSS
@@ -174,6 +184,10 @@ Articles:
 ## 5. Cloud platforms
 
 ## 6. Techdocs
+
+### 6.1 Static site generator
+
+* [Jekyll](https://jekyllrb.com/docs/structure/)
 
 ## 7. Finance
 
