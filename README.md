@@ -183,13 +183,13 @@ Articles:
 
 ## 5. Cloud platforms
 
-## 5.1 Amazon Web Services
+### 5.1 Amazon Web Services
 
 * [localstack](https://localstack.cloud) - Develop and test your cloud apps offline.
 
-## 5.2 Microsoft Azure
+### 5.2 Microsoft Azure
 
-## 5.3 Google Cloud
+### 5.3 Google Cloud
 
 ## 6. Techdocs
 
