@@ -11,6 +11,7 @@
 8. [Articles](#8-articles)
 9. [Monitoring](#9-monitoring)
 10. [DevOps](#10-devops)
+11. [Company's dev blogs](#companys-dev-blogs)
 
 ## 1. Software development
 
@@ -324,3 +325,10 @@ Articles:
     * [Conful templte](https://github.com/hashicorp/consul-template)
     * [Scratch](http://gohugo.io/functions/scratch/) - for consul templating
   * Vault
+
+
+## 11. Company's dev blogs
+
+* [Riot Games](https://engineering.riotgames.com)
+* [GitHub](https://developer.github.com)
+* [Uber](https://eng.uber.com/)
