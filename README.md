@@ -11,7 +11,7 @@
 8. [Articles](#8-articles)
 9. [Monitoring](#9-monitoring)
 10. [DevOps](#10-devops)
-11. [Company's dev blogs](#companys-dev-blogs)
+11. [Company's dev blogs](#11-companys-dev-blogs)
 
 ## 1. Software development
 
