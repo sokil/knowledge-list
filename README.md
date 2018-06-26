@@ -189,6 +189,7 @@ Articles:
 #### 3.1.1 CAP: Consistency, Availability, Partition tolerance
 
 * [Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 
 #### 3.1.2 ACID: Atomicity, Consistency, Isolation, Durability
 
