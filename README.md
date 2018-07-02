@@ -266,7 +266,7 @@ In contrast to ACID.
 
 ### 5.4 Corezoid
 
-* [](https://new.corezoid.com)
+* [Official site](https://new.corezoid.com)
 
 ## 6. Techdocs
 
