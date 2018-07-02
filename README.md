@@ -23,7 +23,7 @@
 
 #### 1.1.2 Hexagonal
 
-* [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture))
+* [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture)
 
 #### 1.1.3 Clean
 
