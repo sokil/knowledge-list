@@ -57,7 +57,7 @@
 
 #### 1.2.6 Event sourcing
 
-*[Event Sourcing from Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Event Sourcing from Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
 
 
 ### 1.3 Programming paradigm
