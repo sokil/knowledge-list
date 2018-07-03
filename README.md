@@ -80,7 +80,7 @@ Articles:
 
 #### Articles
 
-* [Шаблоны проектирования с человеческим лицом](https://habrahabr.ru/company/mailru/blog/325492/)
+* [(ru) Шаблоны проектирования с человеческим лицом](https://habrahabr.ru/company/mailru/blog/325492/)
 
 ### 1.6 Message bus
 
@@ -300,8 +300,8 @@ In contrast to ACID.
 
 #### Usecases
 
-* [Работа с потоком логов в реальном времени с помощью Heka. Опыт Яндекс.Денег](https://habr.com/company/yamoney/blog/328018/)
-* [Сбор и анализ логов демонов в Badoo](https://habr.com/company/badoo/blog/280606/)
+* [(ru) Работа с потоком логов в реальном времени с помощью Heka. Опыт Яндекс.Денег](https://habr.com/company/yamoney/blog/328018/)
+* [(ru) Сбор и анализ логов демонов в Badoo](https://habr.com/company/badoo/blog/280606/)
 
 ### 9.2 Monitoring
 
@@ -315,8 +315,8 @@ In contrast to ACID.
 
 #### Usecases
 
-* [Обзор систем мониторинга серверов. Заменяем munin на…](https://habr.com/post/331016/)
-* [Истории успеха Kubernetes в production. Часть 4: SoundCloud (авторы Prometheus)](https://habr.com/company/flant/blog/339724/)
+* [(ru) Обзор систем мониторинга серверов. Заменяем munin на…](https://habr.com/post/331016/)
+* [(ru) Истории успеха Kubernetes в production. Часть 4: SoundCloud (авторы Prometheus)](https://habr.com/company/flant/blog/339724/)
 
 ## 10. DevOps
 
@@ -345,17 +345,18 @@ In contrast to ACID.
 
 ### 12.1 MQTT: Message Queuing Telemetry Transport
 
-#### 12.1.1 Articles
-
-* [Wiki](https://en.wikipedia.org/wiki/MQTT)
-
-#### 12.1.2 Brokers
-
-* [Eclipse Mosquitto™ - An open source MQTT broker](https://mosquitto.org)
+* Soft
+  * [Eclipse Mosquitto™ - An open source MQTT broker](https://mosquitto.org)
+* Articles
+  * [Wiki](https://en.wikipedia.org/wiki/MQTT)
+  * [(ru) ESP8266 в качестве MQTT брокера для мобильного приложения](https://habr.com/post/326794/)
 
 ### 12.2 Network management
 
 * NiFi
-  * [NiFi: An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org)
-  * [MiNiFi: A subproject of Apache NiFi to collect data where it originates](https://nifi.apache.org/minifi/)
+  * Sort
+    * [NiFi: An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org)
+    * [MiNiFi: A subproject of Apache NiFi to collect data where it originates](https://nifi.apache.org/minifi/)
+  * Articles
+    * [(ru) Как построить IIoT архитектуру своими руками](https://habr.com/company/itsumma/blog/415933/)
     
