@@ -30,6 +30,11 @@
 
 * [The Clean Architecture from 8thlight](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
+#### 1.1.4 Manifests
+
+* [The Twelve-Factor App](https://www.12factor.net)
+* [The Reactive Manifesto](https://www.reactivemanifesto.org)
+
 ### 1.2 Principles
 
 #### 1.2.1 SOLID
@@ -150,11 +155,6 @@ Articles:
   * [PHPSpec](https://www.phpspec.net/) - A php toolset to drive emergent design by specification
   * [Codeception](https://codeception.com)
   * [Mockery](http://docs.mockery.io/en/latest/) - Simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
-
-#### 1.13 Manifests
-
-* [The Twelve-Factor App](https://www.12factor.net)
-* [The Reactive Manifesto](https://www.reactivemanifesto.org)
 
 ## 2. Data sciense
 
