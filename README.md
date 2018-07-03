@@ -360,6 +360,8 @@ In contrast to ACID.
 
 ### 12.2 Network management
 
+* ThingsBoard
+  * https://github.com/thingsboard/thingsboard
 * NiFi
   * Sort
     * [NiFi: An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org)
