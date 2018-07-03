@@ -151,6 +151,11 @@ Articles:
   * [Codeception](https://codeception.com)
   * [Mockery](http://docs.mockery.io/en/latest/) - Simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
 
+#### 1.13 Manifests
+
+* [The Twelve-Factor App](https://www.12factor.net)
+* [The Reactive Manifesto](https://www.reactivemanifesto.org)
+
 ## 2. Data sciense
 
 ### 2.1 Common languages, tools and platforms
