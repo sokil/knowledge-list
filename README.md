@@ -378,6 +378,6 @@ In contrast to ACID.
 * [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
 * [GNU Radio / HackRF One](https://habrahabr.ru/post/325894/)
 
-### ESP8266
+### 13.2 ESP8266
 
 * [(ru) О вкусном и здоровом питании ESP8266 от батареек](https://habr.com/post/304936/)
