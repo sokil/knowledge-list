@@ -12,6 +12,7 @@
 10. [DevOps](#10-devops)
 11. [Company's dev blogs](#11-companys-dev-blogs)
 12. [IoT](#12-iot)
+13. [Hardware](#13-hardware)
 
 ## 1. Software development
 
@@ -106,6 +107,12 @@ Articles:
 ### 1.9 Auth
 
 * oAuth
+  * Articles
+    * [OAuth2 in 8 Steps (screencast)](http://knpuniversity.com/screencast/oauth)
+  * Soft
+    * Symfony (PHP)
+      * [KnpUOAuth2ClientBundle: Easily talk to an OAuth2 server for social functionality in Symfony (PHP)](https://github.com/knpuniversity/oauth2-client-bundle)
+      * [HWIOauthBundle: Symfony2 Facebook and Google Login: The Easy Way (PHP)](http://intelligentbee.com/blog/2015/11/13/symfony2-facebook-google-login/)
 * SAML
 * LDAP
 
@@ -359,4 +366,18 @@ In contrast to ACID.
     * [MiNiFi: A subproject of Apache NiFi to collect data where it originates](https://nifi.apache.org/minifi/)
   * Articles
     * [(ru) Как построить IIoT архитектуру своими руками](https://habr.com/company/itsumma/blog/415933/)
-    
+
+## 13. Hardware
+
+### 13.1 GSM / Radio
+
+* [Scan for GSM base stations in a given frequency band and can use those GSM base stations to calculate the local oscillator frequency offset](https://github.com/steve-m/kalibrate-rtl)
+* [RTL SDR](http://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)
+* [Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices](https://github.com/antirez/dump1090)
+* [ADS-B Decoding Guide](http://adsb-decode-guide.readthedocs.io/en/latest/)
+* [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
+* [GNU Radio / HackRF One](https://habrahabr.ru/post/325894/)
+
+### ESP8266
+
+* [(ru) О вкусном и здоровом питании ESP8266 от батареек](https://habr.com/post/304936/)
