@@ -1,6 +1,5 @@
 # Knowledge List
 
-
 1. [Software development](#1-software-development)
 2. [Data sciense](#2-data-sciense)
 3. [Databases](#3-databases)
@@ -12,6 +11,7 @@
 9. [Monitoring](#9-monitoring)
 10. [DevOps](#10-devops)
 11. [Company's dev blogs](#11-companys-dev-blogs)
+12. [IoT](#12-iot)
 
 ## 1. Software development
 
@@ -340,3 +340,22 @@ In contrast to ACID.
 * [Riot Games](https://engineering.riotgames.com)
 * [GitHub](https://developer.github.com)
 * [Uber](https://eng.uber.com/)
+
+## 12. IoT
+
+### 12.1 MQTT: Message Queuing Telemetry Transport
+
+#### 12.1.1 Articles
+
+* [Wiki](https://en.wikipedia.org/wiki/MQTT)
+
+#### 12.1.2 Brokers
+
+* [Eclipse Mosquitto™ - An open source MQTT broker](https://mosquitto.org)
+
+### 12.2 Network management
+
+* NiFi
+  * [NiFi: An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org)
+  * [MiNiFi: A subproject of Apache NiFi to collect data where it originates](https://nifi.apache.org/minifi/)
+    
