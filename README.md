@@ -362,6 +362,9 @@ In contrast to ACID.
 * Articles
   * [Wiki](https://en.wikipedia.org/wiki/MQTT)
   * [(ru) ESP8266 в качестве MQTT брокера для мобильного приложения](https://habr.com/post/326794/)
+  * (ru) Как построить IIoT архитектуру своими руками
+    * [Part 1](https://habr.com/company/itsumma/blog/415933/)
+    * [Part 2](https://habr.com/company/itsumma/blog/416291/)
 
 ### 12.2 Network management
 
