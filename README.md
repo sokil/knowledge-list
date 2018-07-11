@@ -100,6 +100,8 @@ Articles:
   * Kafka
 * Libraries
   * [bernard](https://bernard.readthedocs.io) - Multi-backend PHP library for creating background jobs for later processing
+* Articles
+  * [(ru)RabbitMQ против Kafka: два разных подхода к обмену сообщениями](https://habr.com/company/itsumma/blog/416629/)
 
 ### 1.7 Cache
 
