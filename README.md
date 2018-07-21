@@ -203,8 +203,8 @@ Tools:
 * [IBM Watson](https://www.ibm.com/watson/services/natural-language-understanding/)
 
 Articles:
-* [Natural_language_processing, NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
-* [Natural_language_understanding, NLU](https://en.wikipedia.org/wiki/Natural_language_understanding)
+* [Natural language processing, NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Natural language understanding, NLU](https://en.wikipedia.org/wiki/Natural_language_understanding)
 
 
 ### 2.6 Visualization
