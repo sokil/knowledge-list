@@ -1,7 +1,7 @@
 # Knowledge List
 
 1. [Software development](#1-software-development)
-2. [Data sciense](#2-data-sciense)
+2. [Data sciense / Machine learning](#2-data-sciense-machine-learning)
 3. [Databases](#3-databases)
 4. [Security](#4-security)
 5. [Cloud platforms](#5-cloud-platforms)
@@ -158,7 +158,7 @@ Articles:
   * [Codeception](https://codeception.com)
   * [Mockery](http://docs.mockery.io/en/latest/) - Simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
 
-## 2. Data sciense
+## 2. Data sciense / Machine learning
 
 ### 2.1 Common languages, tools and platforms
 
@@ -169,9 +169,6 @@ Articles:
   * scipy
   * pyplot
 * [CUDA](https://developer.nvidia.com/how-to-cuda-c-cpp)
-* Deep Learning / Neural networks
-  * [Tensorflow](https://www.tensorflow.org/)
-  * [Keras](https://keras.io) - high-level neural networks API, capable of running on top of TensorFlow, CNTK, or Theano.
     
 ### 2.2 Machine learning
 
@@ -184,12 +181,25 @@ Articles:
   * [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 * [Unbalanced data dealing](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
 
-### 2.3 OCR
+### 2.3 Deep learning / Neural networks
+
+Tools:
+  * [Tensorflow](https://www.tensorflow.org/)
+  * [Keras](https://keras.io) - high-level neural networks API, capable of running on top of TensorFlow, CNTK, or Theano.
+  
+### 2.4 OCR
 
 * [Tesseract OCR](https://github.com/tesseract-ocr/)
 * [OpenCV](https://opencv.org)
 
-### 2.4 Visualization
+### 2.5 Conversational AI / Assistance / Chat bots
+
+Tools:
+* [Rasa - Conversational AI](https://rasa.com)
+* [Haptik - Conversational AI](https://haptik.ai/)
+* [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
+
+### 2.6 Visualization
 
 * Tableau
 * Periscope Data
@@ -354,6 +364,7 @@ In contrast to ACID.
 * [Riot Games](https://engineering.riotgames.com)
 * [GitHub](https://developer.github.com)
 * [Uber](https://eng.uber.com/)
+* [Haptik](https://haptik.ai/tech/)
 
 ## 12. IoT
 
