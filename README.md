@@ -169,6 +169,7 @@ Articles:
   * scipy
   * pyplot
 * [CUDA](https://developer.nvidia.com/how-to-cuda-c-cpp)
+* [Google AI Project](https://ai.google)
     
 ### 2.2 Machine learning
 
@@ -192,12 +193,19 @@ Tools:
 * [Tesseract OCR](https://github.com/tesseract-ocr/)
 * [OpenCV](https://opencv.org)
 
-### 2.5 Conversational AI / Assistance / Chat bots
+### 2.5 Conversational AI / Natural-language processing
 
 Tools:
 * [Rasa - Conversational AI](https://rasa.com)
 * [Haptik - Conversational AI](https://haptik.ai/)
 * [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
+* [Google AI](https://ai.google/research/teams/nlu/)
+* [IBM Watson](https://www.ibm.com/watson/services/natural-language-understanding/)
+
+Articles:
+* [Natural_language_processing, NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Natural_language_understanding, NLU](https://en.wikipedia.org/wiki/Natural_language_understanding)
+
 
 ### 2.6 Visualization
 
