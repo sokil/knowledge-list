@@ -1,7 +1,7 @@
 # Knowledge List
 
 1. [Software development](#1-software-development)
-2. [Data sciense / Machine learning](#2-data-sciense-machine-learning)
+2. [Data sciense / Machine learning](#2-data-sciense--machine-learning)
 3. [Databases](#3-databases)
 4. [Security](#4-security)
 5. [Cloud platforms](#5-cloud-platforms)
