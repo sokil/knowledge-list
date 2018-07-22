@@ -199,10 +199,11 @@ Tools:
 * [Rasa - Conversational AI](https://rasa.com)
 * [Haptik - Conversational AI](https://haptik.ai/)
 * [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
-* [Google AI](https://ai.google/research/teams/nlu/)
+* [Google DialogFlow](https://dialogflow.com)
 * [IBM Watson](https://www.ibm.com/watson/services/natural-language-understanding/)
 
 Articles:
+* [Google AI](https://ai.google/research/teams/nlu/)
 * [Natural language processing, NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
 * [Natural language understanding, NLU](https://en.wikipedia.org/wiki/Natural_language_understanding)
 
