@@ -207,6 +207,7 @@ Conversational AI:
 
 Bot frameworks:
 * [Botpress](https://botpress.io)
+* [Botman](https://botman.io)
 
 Articles:
 * [Google AI](https://ai.google/research/teams/nlu/)
