@@ -195,7 +195,7 @@ Tools:
 
 ### 2.5 Conversational AI / Natural-language processing
 
-Tools:
+Conversational AI:
 * [Rasa - Conversational AI](https://rasa.com)
 * [Haptik - Conversational AI](https://haptik.ai/)
 * [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
@@ -204,6 +204,9 @@ Tools:
 * [Amazon Lex](https://aws.amazon.com/lex/)
 * [Facebook Wit.ai](https://wit.ai)
 * [IBM Watson](https://www.ibm.com/watson/services/natural-language-understanding/)
+
+Bot frameworks:
+* [Botpress](https://botpress.io)
 
 Articles:
 * [Google AI](https://ai.google/research/teams/nlu/)
