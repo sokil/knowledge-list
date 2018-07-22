@@ -200,6 +200,9 @@ Tools:
 * [Haptik - Conversational AI](https://haptik.ai/)
 * [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
 * [Google DialogFlow](https://dialogflow.com)
+* [Microsoft LUIS](https://www.luis.ai)
+* [Amazon Lex](https://aws.amazon.com/lex/)
+* [Facebook Wit.ai](https://wit.ai)
 * [IBM Watson](https://www.ibm.com/watson/services/natural-language-understanding/)
 
 Articles:
