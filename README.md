@@ -209,6 +209,7 @@ Conversational AI:
 Bot frameworks:
 * [Botpress](https://botpress.io)
 * [Botman](https://botman.io)
+* [SuperScriptJS](http://superscriptjs.com)
 
 Articles:
 * [Google AI](https://ai.google/research/teams/nlu/)
