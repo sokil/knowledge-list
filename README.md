@@ -200,6 +200,8 @@ Conversational AI:
 * [Haptik - Conversational AI](https://haptik.ai/)
 * [Recast - The collaborative platform to build, train, deploy and monitor intelligent bots for developers Or with your email](https://recast.ai)
 * [Google DialogFlow](https://dialogflow.com)
+  * [DialogFlow Fulfillment](https://github.com/dialogflow/dialogflow-fulfillment-nodejs)
+  * [DialogFlow PHP SDK](https://github.com/GoogleCloudPlatform/google-cloud-php-dialogflow)
 * [Microsoft LUIS](https://www.luis.ai)
 * [Microsoft Bot Framework](https://dev.botframework.com)
 * [Amazon Lex](https://aws.amazon.com/lex/)
@@ -306,6 +308,7 @@ In contrast to ACID.
 ### 5.3 Google Cloud
 
 * [Cloud](https://cloud.google.com)
+  * [A local emulator for Google Cloud Functions](https://github.com/GoogleCloudPlatform/cloud-functions-emulator) - allows you to deploy, run, and debug your Cloud Functions on your local machine before deploying them to the production Google Cloud Functions service.
 * [Firebase](https://firebase.google.com)
 
 ### 5.4 Corezoid
