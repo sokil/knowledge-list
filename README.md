@@ -287,11 +287,13 @@ In contrast to ACID.
 
 ## 4. Security
 
-### 4.1 XSS
+### 4.1 Cryptography
 
-### 4.2 CSRF
+### 4.2 XSS
 
-### 4.3 SQL injection
+### 4.3 CSRF
+
+### 4.4 SQL injection
 
 ## 5. Cloud platforms
 
