@@ -423,6 +423,7 @@ In contrast to ACID.
 * [ADS-B Decoding Guide](http://adsb-decode-guide.readthedocs.io/en/latest/)
 * [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
 * [GNU Radio / HackRF One](https://habrahabr.ru/post/325894/)
+* [Introduction to Radar Systems](https://www.ll.mit.edu/outreach/introduction-radar-systems)
 
 ### 13.2 ESP8266
 
