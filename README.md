@@ -424,6 +424,7 @@ In contrast to ACID.
 * [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
 * [GNU Radio / HackRF One](https://habrahabr.ru/post/325894/)
 * [Introduction to Radar Systems](https://www.ll.mit.edu/outreach/introduction-radar-systems)
+* [A WebSDR is a Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously](http://www.websdr.org/)
 
 ### 13.2 ESP8266
 
