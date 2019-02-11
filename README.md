@@ -395,6 +395,7 @@ In contrast to ACID.
 
 * Soft
   * [Eclipse Mosquitto™ - An open source MQTT broker](https://mosquitto.org)
+  * [Intel IoT Code Samples](https://software.intel.com/iot/documentation/code-samples)
 * Articles
   * [Wiki](https://en.wikipedia.org/wiki/MQTT)
   * [(ru) ESP8266 в качестве MQTT брокера для мобильного приложения](https://habr.com/post/326794/)
