@@ -63,7 +63,10 @@
 
 #### 1.2.6 Event sourcing
 
-* [Event Sourcing from Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+* Articles
+  * [Event Sourcing from Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+* Soft
+  * [prooph](http://getprooph.org) - CQRS and EventSourcing Infrastructure for PHP
 
 
 ### 1.3 Programming paradigm
