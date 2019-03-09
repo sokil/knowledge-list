@@ -60,6 +60,7 @@
 #### 1.2.5 CQRS: Command Query Responsibility Segregation
 
 * [Command Query Separation from Martin Fowler](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* [Some questions about the command bus](https://matthiasnoback.nl/2015/01/some-questions-about-the-command-bus/)
 
 #### 1.2.6 Event sourcing
 
