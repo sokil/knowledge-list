@@ -161,6 +161,11 @@ Articles:
   * [Codeception](https://codeception.com)
   * [Mockery](http://docs.mockery.io/en/latest/) - Simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
 
+### 1.13 Web protocols
+
+* HTTP/2 + SPDY
+* [HTTP/2 Server Push (ru)](https://habr.com/en/company/badoo/blog/329722/)
+
 ## 2. Data sciense / Machine learning
 
 ### 2.1 Common languages, tools and platforms
