@@ -389,6 +389,8 @@ In contrast to ACID.
     * [Conful templte](https://github.com/hashicorp/consul-template)
     * [Scratch](http://gohugo.io/functions/scratch/) - for consul templating
   * Vault
+* Scalability
+  * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 
 
 ## 11. Company's dev blogs
