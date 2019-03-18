@@ -296,6 +296,10 @@ In contrast to ACID.
 * http://www.liquibase.org/
 * https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html
 
+### 3.10 Articles and tutorials
+
+* [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
+
 ## 4. Security
 
 ### 4.1 Cryptography
