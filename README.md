@@ -168,6 +168,14 @@ Articles:
 * HTTP/2 + SPDY
 * [HTTP/2 Server Push (ru)](https://habr.com/en/company/badoo/blog/329722/)
 
+### 1.14 Distributed compiting
+
+* Scalability
+  * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+* [RAFT: Leader election](https://raft.github.io/)
+* [Gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
+* Eventual consistency(https://en.wikipedia.org/wiki/Eventual_consistency)
+
 ## 2. Data sciense / Machine learning
 
 ### 2.1 Common languages, tools and platforms
@@ -394,9 +402,6 @@ In contrast to ACID.
     * [Conful templte](https://github.com/hashicorp/consul-template)
     * [Scratch](http://gohugo.io/functions/scratch/) - for consul templating
   * Vault
-* Scalability
-  * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
-
 
 ## 11. Company's dev blogs
 
