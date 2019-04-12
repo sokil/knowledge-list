@@ -130,6 +130,7 @@ Articles:
 ### 1.10 RPC
 
 * [gRPC](https://grpc.io)
+* [JSON-RPC](https://www.jsonrpc.org/specification)
 * GraphQL
 * REST
   * [Architectural Styles and the Design of Network-based Software Architectures / Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
