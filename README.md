@@ -186,13 +186,14 @@ Articles:
 * HTTP/2 + SPDY
 * [HTTP/2 Server Push (ru)](https://habr.com/en/company/badoo/blog/329722/)
 
-### 1.14 Distributed compiting
+### 1.14 Distributed computing
 
 * Scalability
   * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [RAFT: Leader election](https://raft.github.io/)
 * [Gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
-* Eventual consistency(https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Distributed transactions](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
 
 ## 2. Data sciense / Machine learning
 
