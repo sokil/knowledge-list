@@ -194,6 +194,7 @@ Articles:
 * [Gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 * [Distributed transactions](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
+* [Two phase commit](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
 
 ## 2. Data sciense / Machine learning
 
