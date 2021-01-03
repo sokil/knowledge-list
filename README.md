@@ -461,6 +461,9 @@ In contrast to ACID.
 
 * [Scan for GSM base stations in a given frequency band and can use those GSM base stations to calculate the local oscillator frequency offset](https://github.com/steve-m/kalibrate-rtl)
 * [RTL SDR](http://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)
+* [Радиоприёмник из DVB стика за $8 — изучаем SDR с GNURadio](https://habr.com/en/company/zwave/blog/390421/)
+* [«Заводим» радиоуправляемые розетки без пульта](https://habr.com/en/post/212215/)
+* [Зубочистка-детектив раскрывает секрет радиопротокола](https://habr.com/en/post/211594/)
 * [Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices](https://github.com/antirez/dump1090)
 * [ADS-B Decoding Guide](http://adsb-decode-guide.readthedocs.io/en/latest/)
 * [Software to turn the RTL2832U into an SDR](https://github.com/steve-m/librtlsdr)
